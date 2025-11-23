@@ -6,6 +6,7 @@ namespace MotivationApp
         public static void Main(string[] args)
         {
             Console.WriteLine("Stay positive, work hard, make it happen!");
+            Console.WriteLine("I am capable of achieving great things.");
         }
     }
 }
